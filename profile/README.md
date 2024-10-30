@@ -6,3 +6,4 @@ Welcome to the GitHub page of CIEMAT's Nuclear Innovation Unit! We do research i
 
 Here, you can find some of the codes we share publicly:
 - [NuDEX](https://github.com/UIN-CIEMAT/NuDEX): a Nuclear DE-eXcitation code
+- [SaG4n](https://github.com/UIN-CIEMAT/SaG4n): Simulation of (alpha,xn) reactions with Geant4
